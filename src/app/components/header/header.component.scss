@@ -1,0 +1,23 @@
+.nav-container {
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-container {
+    height: 100%;
+    margin: 8px 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 100%;
+}
+
+.logo-text {
+    font-size: 20px;
+    margin-left: 8px;
+    color: #fff;
+}
