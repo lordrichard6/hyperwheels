@@ -14,10 +14,7 @@ body {
 }
 
 .container {
-  @media screen and (max-width: 1024px) {
     width: 100vw;
     height: 100vh;
     background: radial-gradient(128.57% 128.57% at 93.33% -13.18%, #141B29 0%, #124143 23.44%, #5AC994 100%);
-  }
-  
 }
